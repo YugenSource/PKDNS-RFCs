@@ -12,3 +12,9 @@ In this system, there exists:
 * Multiple Protocol Support (RFC#5) For PKDNS
 * A CLI For Interface (RFC#3)
 * Potential Monetary Exchanges Using Block Lattices (BL_RFC#1)
+
+## Connections
+
+1. RPC
+2. HTTP/HTTPS
+3. WSS
