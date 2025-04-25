@@ -18,3 +18,7 @@ In this system, there exists:
 1. RPC
 2. HTTP/HTTPS
 3. WSS
+
+## Cryptography
+
+The usage of ED25519 is employed along with SPHINCS+.
